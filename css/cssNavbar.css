@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+nav {
+  background-color: #416d19;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}

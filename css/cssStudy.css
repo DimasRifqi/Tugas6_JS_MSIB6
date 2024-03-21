@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #bfea7c;
+  margin: 0;
+  padding: 0;
+}
+table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+th,
+td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #9bcf53;
+  text-align: center;
+}
+tr:hover,
+th:hover {
+  background-color: #7bad3b;
+}
+
+#gambarProfile {
+  text-align: center;
+}
+
+#gambarProfile img {
+  width: 10%;
+}
+
+#gambarProfile p {
+  text-align: center;
+}
+
+#mystudyTitle {
+  font-size: 24px;
+  color: green;
+  font-family: Calibri, sans-serif;
+}

@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #416d19;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
